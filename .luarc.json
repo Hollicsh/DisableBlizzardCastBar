@@ -1,7 +1,8 @@
 {
   "diagnostics.globals": [
     "CreateFrame",
-    "PlayerCastingBarFrame"
+    "PlayerCastingBarFrame",
+    "CastingBarFrame"
   ],
   "runtime.version": "Lua 5.1",
   "workspace.ignoreDir": [

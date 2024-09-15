@@ -4,5 +4,10 @@ allow_defined = true
 
 globals = {
     "CreateFrame",
-    "PlayerCastingBarFrame"
+    "PlayerCastingBarFrame",
+    "WOW_PROJECT_ID",
+    "WOW_PROJECT_MAINLINE",
+    "WOW_PROJECT_CLASSIC",
+    "WOW_PROJECT_CATACLYSM_CLASSIC",
+    "CastingBarFrame"
 }
