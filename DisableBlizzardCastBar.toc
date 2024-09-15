@@ -5,4 +5,7 @@
 ## Notes: Just that, disables blizzard default cast bar
 ## IconTexture: Interface\Icons\INV_Misc_Food_01
 
+## X-Wago-ID: qKQxQ16x
+## X-Curse-Project-ID: 1102964
+
 DisableBlizzardCastBar.lua
