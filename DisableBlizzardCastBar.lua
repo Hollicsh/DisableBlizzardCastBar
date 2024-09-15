@@ -1,0 +1,6 @@
+local disableCastBar = CreateFrame("Frame")
+disableCastBar:RegisterEvent("PLAYER_ENTERING_WORLD")
+disableCastBar:SetScript("OnEvent", function()
+    PlayerCastingBarFrame:UnregisterAllEvents()
+    disableCastBar:UnregisterEvent("PLAYER_ENTERING_WORLD")
+end)

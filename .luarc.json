@@ -1,0 +1,10 @@
+{
+  "diagnostics.globals": [
+    "CreateFrame",
+    "PlayerCastingBarFrame"
+  ],
+  "runtime.version": "Lua 5.1",
+  "workspace.ignoreDir": [
+    ".vscode"
+  ]
+}
