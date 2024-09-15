@@ -1,0 +1,3 @@
+package-as: DisableBlizzardCastBar
+ignore:
+  - README.md
