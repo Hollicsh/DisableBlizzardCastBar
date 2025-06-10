@@ -1,8 +1,9 @@
-## Interface: 11506, 20504, 30403, 40402, 110007, 110100
+## Interface: 11507, 20504, 30404, 40402, 50500, 110105, 110107
 ## Version: @project-version@
 ## Title: Disable Blizzard Cast Bar
 ## Author: Will0w7
 ## Notes: Just that, disables blizzard default cast bar
+## Notes-ruRU: Простой аддон, с помощью которого можно отключить стандартную панель произнесения заклинаний Blizzard
 ## IconTexture: Interface\Icons\INV_Misc_Food_01
 
 ## X-Wago-ID: qKQxQ16x
